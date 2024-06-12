@@ -7,14 +7,14 @@
         [
             {"caption":"-"},
             {
-                "caption": "Bidirectional text",
+                "caption": "rtLtr text",
                 "mnemonic": "B",
                 "command": "bidi"
             },
             {
-                "caption": "Bidirectional selection",
+                "caption": "rtLtr selection",
                 "mnemonic": "S",
-                "command": "bidiselection"
+                "command": "rtLtrselection"
             }
         ]
     }
