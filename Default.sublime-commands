@@ -1,10 +1,10 @@
 [
 	{
-		"caption": "Bidirectional text",
+		"caption": "rtLtr text",
 		"command": "run_bidi"
 	},
 	{
-		"caption": "Bidirectional selection",
+		"caption": "rtLtr selection",
 		"command": "run_bidiselection"
 	}
 ]
